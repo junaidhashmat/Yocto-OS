@@ -1,0 +1,5 @@
+auto lo
+iface lo inet loopback
+
+auto atheerInterface
+iface atheerInterface inet dhcp

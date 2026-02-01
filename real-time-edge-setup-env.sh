@@ -1,0 +1,1 @@
+sources/meta-real-time-edge/tools/real-time-edge-setup-env.sh

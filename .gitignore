@@ -1,0 +1,9 @@
+build/*
+!build/conf
+downloads/
+sstate-cache/
+*~
+.#*
+*.swp
+.vscode/
+.repo/
